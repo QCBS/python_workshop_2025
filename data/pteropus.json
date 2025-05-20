@@ -1,0 +1,29 @@
+{
+    "scientific": "Pteropus poliocephalus",
+    "common": "Grey-headed Flying-Fox",
+    "taxonomy": {
+      "class": "Mammalia",
+      "order": "Chiroptera"
+    },
+    "tags": ["bat", "chiroptera", "mammal"],
+    "observations": [
+      {
+        "uname": "benweatherley",
+        "coords": {
+          "latitude": -31.85,
+          "longitude": 152.45
+        },
+        "date": "2025-03-11T12:53:00+11:00",
+        "url": "https://www.inaturalist.org/observations/265345357"
+      },
+      {
+        "uname": "mypatchofheaven",
+        "coords": {
+          "latitude": -27.53,
+          "longitude": 151.21
+        },
+        "date": "2024-09-03T19:43:00+10:00",
+        "url": "https://www.inaturalist.org/observations/269946705"
+      }
+    ]
+  }
